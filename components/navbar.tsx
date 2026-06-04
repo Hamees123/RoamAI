@@ -35,6 +35,7 @@ export default function Sidenavbar() {
              <TooltipContent>
                <p className="cursor-pointer">Dashboard </p>
              </TooltipContent>
+             
            </Tooltip>
 
            
